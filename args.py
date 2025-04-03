@@ -8,3 +8,4 @@ output_dim: int = 2
 num_epoch = 5000
 num_epoch_vae = 5000
 sigma = 0.3
+
