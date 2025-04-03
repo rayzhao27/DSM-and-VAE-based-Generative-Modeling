@@ -80,8 +80,6 @@ generative-model-project/
 
 **Training loss over time**
 
-![image-20250403085604512](images/loss.png)
-
 <p align="center">
   <img src="images/loss.png" alt="Loss Curve" width="500"/>
 </p>
@@ -90,9 +88,9 @@ generative-model-project/
 
 **Generated Samples**
 
-![image-20250403085723286](images/samples.png)
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="center">
+  <img src="images/samples.png" alt="Generated Samples" width="400"/>
+</p>
 
 
 
