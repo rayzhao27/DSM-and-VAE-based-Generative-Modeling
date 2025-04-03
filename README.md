@@ -89,7 +89,7 @@ generative-model-project/
 **Generated Samples**
 
 <p align="center">
-  <img src="images/samples.png" alt="Generated Samples" width="400"/>
+  <img src="images/samples.png" alt="Generated Samples" width="500"/>
 </p>
 
 
