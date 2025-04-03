@@ -82,6 +82,10 @@ generative-model-project/
 
 ![image-20250403085604512](images/loss.png)
 
+<p align="center">
+  <img src="images/loss.png" alt="Loss Curve" width="500"/>
+</p>
+
 
 
 **Generated Samples**
